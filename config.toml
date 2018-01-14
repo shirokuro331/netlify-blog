@@ -3,7 +3,7 @@ languageCode = "ja"
 title = "blog | shirokuro331"
 theme = "Hucore"
 copyright = "&copy; 2017 shirokuro331| Follow on <a href=\"https://twitter.com/shirokuro331\" target=\"_blank\">Twitter</a>"
-googleAnalytics = "trackingcode"
+googleAnalytics = "UA-106570266-1"
 
 [taxonomies]
 tag = "tags"
