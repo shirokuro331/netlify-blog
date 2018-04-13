@@ -1,4 +1,4 @@
-baseurl = "https://shirokuro331.netlify.com/"
+baseurl = "/"
 languageCode = "ja"
 title = "blog | shirokuro331"
 theme = "Hucore"
